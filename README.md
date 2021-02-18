@@ -4,7 +4,7 @@
 
 ## INTRODUÇÃO:
 
-Bypass Play Protect é uma Ferramenta de Pentest Mobile que dá o Bypass Em Alguns Anti-virus mais utilizados mundialmente. Deve ser usado apenas para fins Educacionais e não para fins Ilicitos. Está compilado por usuarios mal intencionados podem usufruir do código fonte para Atribuir O Projetos Ilicitos. Um Abraço a Todos!
+Bypass Play Protect é uma Ferramenta de Pentest Mobile que dá o Bypass Em Alguns Anti-virus mais utilizados mundialmente. Deve ser usado apenas para fins Educacionais e não para fins Ilicitos. Está compilado porque usuarios mal intencionados podem usufruir do código fonte para Atribuir O Projetos Ilicitos. Um Abraço a Todos!
 
 ## MENU:
 ![Interface Do BypassPlayProtect](https://raw.githubusercontent.com/Cyber-Root0/BypassPlayProtect/main/Midia/bypass-play-protect.png)
