@@ -25,6 +25,6 @@ Bypass Play Protect é uma Ferramenta de Pentest Mobile que dá o Bypass Em Algu
 
 ## Redes Sociais (Contato):
 
-Email: boteistem@gmail.com
+Email: boteistem@yandex.com
 
 
